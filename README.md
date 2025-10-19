@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 R3Z1N</h1>
 <p align="center">
   <b>Cybersecurity & Software Developer</b><br>
-  <i>Middle East Cyber Intelligence</i>
+  <i>Cyber Intelligence</i>
 </p>
 
 ---
