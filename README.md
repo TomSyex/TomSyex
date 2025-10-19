@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  🦅 <b>“Middle East Cyber Intelligence — SyriaCSecurity”</b> 🦅
+  🦅 <b>“Cyber Intelligence & Security”</b> 🦅
 </p>
