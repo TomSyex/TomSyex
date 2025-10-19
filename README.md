@@ -9,7 +9,7 @@
 ### 🧠 About Me
 - 🔒 Passionate about **Cybersecurity**, **Automation**, and **AI Integration**  
 - 💻 Skilled in **Python**, **C#**, **C++**, and **Shell scripting**  
-- 🌍 Based in the **Middle East**, working on open-source intelligence tools  
+- 🌍 Based in the **USA**, working on open-source intelligence tools  
 - ⚙️ Building projects like Telegram bots, automation tools & system analyzers  
 
 ---
