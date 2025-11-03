@@ -2,7 +2,7 @@
 
 <!-- 🔥 CYBER GLITCH BANNER -->
 <p align="center">
-  <img src="[https://i.ibb.co/7z5H6Wn/red-glitch-banner.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxd3JlcmlvNTg5NjNwam8xNHRuNW9iY3I4YzgxbXo2d3hlZ2IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif)" width="100%" alt="Cyber R3Z1N Banner"/>
+  <img src="[[https://i.ibb.co/7z5H6Wn/red-glitch-banner.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxd3JlcmlvNTg5NjNwam8xNHRuNW9iY3I4YzgxbXo2d3hlZ2IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif)]" width="100%" alt="Cyber R3Z1N Banner"/>
 </p>
 
 <!-- 🧠 NAME ANIMATION -->
