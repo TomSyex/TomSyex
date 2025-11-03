@@ -1,27 +1,29 @@
-<!-- CYBER DARK + ANIMATED GITHUB README by R3Z1N -->
+<!-- CYBER DARK ANIMATED PROFILE README by R3Z1N -->
 
-<!-- 🔥 CYBER GLITCH BANNER -->
+<!-- 🟥 CYBER GLITCH BANNER -->
 <p align="center">
-  <img src="[[https://i.ibb.co/7z5H6Wn/red-glitch-banner.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxd3JlcmlvNTg5NjNwam8xNHRuNW9iY3I4YzgxbXo2d3hlZ2IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif)]" width="100%" alt="Cyber R3Z1N Banner"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxd3JlcmlvNTg5NjNwam8xNHRuNW9iY3I4YzgxbXo2d3hlZ2IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" alt="Cyber Glitch Banner"/>
 </p>
 
-<!-- 🧠 NAME ANIMATION -->
+<!-- 🧠 R3Z1N TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+R3Z1N;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;AI+AUTOMATION;SECURITY+RESEARCHER" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+R3Z1N;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;AI+AUTOMATION;SECURITY+RESEARCHER" alt="Typing Animation"/>
 </h1>
 
 ---
 
-<!-- 🌌 BACKGROUND GIF -->
-<div align="center">
-  <img src="https://i.gifer.com/origin/1b/1b3dc2ec5ddff5b0f041e0b60f2c5a44_w200.gif" width="100%" height="3" alt="Divider"/>
-</div>
+<!-- ⚡ CYBER BACKGROUND GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJubmozbTNpajBleXU1MzFwd3VucmRvaXA5ejF2MG5jNHNlOHR3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" alt="Cyber Background"/>
+</p>
+
+---
 
 ### 🧠 **About Me**
-- 🔴 Passionate about **Cybersecurity**, **AI**, and **System Automation**
+- 🔴 Passionate about **Cybersecurity**, **AI**, and **Automation**
 - ⚙️ Skilled in **Python**, **C#**, **C++**, **Shell**
-- 🛰️ Building **Offensive & Defensive Security Tools**
-- 🌐 Based in the **USA**, focused on **Cyber Intelligence**
+- 🌍 Based in **USA**, developing **OSINT** & **Cyber Tools**
+- 🧩 Building: Telegram Bots, System Analyzers, Automation Frameworks
 
 ---
 
@@ -32,7 +34,7 @@
 
 ---
 
-### ⚡ **GitHub Stats**
+### ⚙️ **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3Z1N&show_icons=true&theme=tokyonight&icon_color=FF003C&title_color=FF003C&text_color=FFFFFF&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=R3Z1N&theme=highcontrast&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&hide_border=true" />
@@ -67,17 +69,13 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGJvZHo3em9kb3ExaTN6aXNpOHVlZmEza3V5cmVxOWRybm1wZ20zNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="Matrix Code Background"/>
   <h3 style="color:#FF003C;">🦅 <i>"CYBER INTELLIGENCE & SECURITY"</i> 🦅</h3>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<!-- 🐍 Animated Snake -->
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+---
 
-<!-- 🖤 BACKGROUND CYBER GIF -->
+<!-- 🐍 Snake Contributions Animation -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="Cyberpunk Background GIF"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
