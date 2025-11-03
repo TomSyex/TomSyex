@@ -1,32 +1,33 @@
-<!-- Cyber Dark Theme GitHub Profile README by R3Z1N -->
+<!-- CYBER DARK + ANIMATED GITHUB README by R3Z1N -->
 
-<div align="center">
+<!-- 🔥 CYBER GLITCH BANNER -->
+<p align="center">
+  <img src="https://i.ibb.co/7z5H6Wn/red-glitch-banner.gif" width="100%" alt="Cyber R3Z1N Banner"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+R3Z1N;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;RED+TEAM+ANALYST" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-%23FF003C.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20INTEGRATION-%23FFFFFF.svg?&style=for-the-badge&logo=artstation&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenSource-%23FF003C.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</div>
+<!-- 🧠 NAME ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+R3Z1N;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;AI+AUTOMATION;SECURITY+RESEARCHER" alt="Typing Animation"/>
+</h1>
 
 ---
+
+<!-- 🌌 BACKGROUND GIF -->
+<div align="center">
+  <img src="https://i.gifer.com/origin/1b/1b3dc2ec5ddff5b0f041e0b60f2c5a44_w200.gif" width="100%" height="3" alt="Divider"/>
+</div>
 
 ### 🧠 **About Me**
-- 🕶️ Cybersecurity & Software Developer with focus on **Automation** and **AI Security**
-- 💻 Expert in **Python**, **C#**, **C++**, **Shell**
-- 🌍 Based in **USA**, creating **Offensive & Defensive Cyber Tools**
-- 🧩 Projects: Telegram Bots, OSINT Systems, Security Frameworks
+- 🔴 Passionate about **Cybersecurity**, **AI**, and **System Automation**
+- ⚙️ Skilled in **Python**, **C#**, **C++**, **Shell**
+- 🛰️ Building **Offensive & Defensive Security Tools**
+- 🌐 Based in the **USA**, focused on **Cyber Intelligence**
 
 ---
 
 ### 🧰 **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,bash,linux,docker,git,vscode,sqlite,html,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,bash,linux,git,docker,sqlite,vscode,html,js&theme=dark" />
 </p>
 
 ---
@@ -41,7 +42,7 @@
 
 ### 🏆 **Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R3Z1N&theme=onedark&no-frame=true&column=6&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=R3Z1N&theme=onedark&no-frame=true&column=6" />
 </p>
 
 ---
@@ -71,8 +72,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
----
-
+<!-- 🐍 Animated Snake -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<!-- 🖤 BACKGROUND CYBER GIF -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="Cyberpunk Background GIF"/>
+</p>
